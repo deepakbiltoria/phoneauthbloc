@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624186441009",
+    "project_id": "blocauthtest-a461c",
+    "storage_bucket": "blocauthtest-a461c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624186441009:android:5f21f37041aa57d143c410",
+        "android_client_info": {
+          "package_name": "com.debilto.phoneauthbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624186441009-di8d171nbqff6sfi8c659cuds26dmnet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW0CKhsceQd0QfsfZWr6bI7a4CNwrEd-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624186441009-di8d171nbqff6sfi8c659cuds26dmnet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
